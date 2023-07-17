@@ -1,4 +1,5 @@
 # SwiftyImageConverter
+[![Build Status](https://app.bitrise.io/app/ae0d9755-7254-4a32-aa83-268ee76b0b72/status.svg?token=hBH9HuB3dPkMHw8ls21SFw&branch=main)](https://app.bitrise.io/app/ae0d9755-7254-4a32-aa83-268ee76b0b72)
 A simple image file to JPEG or PNG data representation conversion utility in Swift.
 
 
