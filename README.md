@@ -1,5 +1,6 @@
 # SwiftyImageConverter
 [![Build Status](https://app.bitrise.io/app/ae0d9755-7254-4a32-aa83-268ee76b0b72/status.svg?token=hBH9HuB3dPkMHw8ls21SFw&branch=main)](https://app.bitrise.io/app/ae0d9755-7254-4a32-aa83-268ee76b0b72)
+
 A simple image file to JPEG or PNG data representation conversion utility in Swift.
 
 
@@ -30,13 +31,13 @@ let pathToFiles = [pathToFile, pathToFile1]
 let sicUtil = SwiftImageFileConverter()
 
 let compressedJPEGs: [Data] = sicUtil.convertImageFilesToJpeg(filesPaths: pathToFiles, compression: .maximum)
-let compressedPNGs: [Data] = sicUtil.convertImageFilesToJpeg(filesPaths: pathToFiles)
+let compressedPNGs: [Data] = sicUtil.convertImageFilesToPng(filesPaths: pathToFiles)
 ```
 
 ## Available Compression levels
-```ruby
-/// The quality of the resulting JPEG image, expressed as a value from 0.0 to 1.0. The value 0.0 represents the maximum compression (or lowest quality) while the value 1.0 represents the least compression (or best quality).
+The quality of the resulting JPEG image, expressed as a value from 0.0 to 1.0. The value 0.0 represents the maximum compression (or lowest quality) while the value 1.0 represents the least compression (or best quality).
 
+```ruby
     .maximum
     .high
     .medium
