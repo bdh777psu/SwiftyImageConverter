@@ -32,8 +32,8 @@ let pathToFiles = [pathToFile, pathToFile1]
 
 let sicUtil = SwiftImageFileConverter()
 
-let compressedJPEGs: [Data] = sicUtil.convertImageFilesToJpeg(filesPaths: pathToFiles, compression: .maximum)
-let compressedPNGs: [Data] = sicUtil.convertImageFilesToPng(filesPaths: pathToFiles)
+let convertedJPEGs: [Data] = sicUtil.convertImageFilesToJpeg(filesPaths: pathToFiles, compression: .maximum)
+let convertedPNGs: [Data] = sicUtil.convertImageFilesToPng(filesPaths: pathToFiles)
 ```
 
 ## Available Compression levels
