@@ -1,5 +1,5 @@
 # SwiftyImageConverter
-[![Build Status](https://app.bitrise.io/app/ae0d9755-7254-4a32-aa83-268ee76b0b72/status.svg?token=hBH9HuB3dPkMHw8ls21SFw&branch=main)](https://app.bitrise.io/app/ae0d9755-7254-4a32-aa83-268ee76b0b72)
+[![Build Status](https://app.bitrise.io/app/6dfb923c-365a-483f-a893-1cb28151433c/status.svg?token=WYla_NbM8UabQn-M0vDl3w&branch=main)](https://app.bitrise.io/app/6dfb923c-365a-483f-a893-1cb28151433c)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbdh777psu%2FSwiftyImageConverter%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/bdh777psu/SwiftyImageConverter)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbdh777psu%2FSwiftyImageConverter%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/bdh777psu/SwiftyImageConverter)
 
